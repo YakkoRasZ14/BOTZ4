@@ -14,14 +14,16 @@ DAHLAH
 
 */
 exports.menuZ = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) => {
-	return`╭════❲ *YakkoXCode* ❳═══⊷ 
+	return`╭════❲ *Alice Amelia BOT* ❳═══⊷ 
 ┃✜╭───────────────── 
-┃✜╿ *YakkoXCode BOT*
+┃✜╿ *Alice Amelia BOT*
 ┃✜╿ *OWNER : ${ownername}*
 ┃✜╿ *AUTHOR : YakkoXCode*
 ┃✜╿ *NAMEBOT : ${namebot}*
 ┃✜╿ *BULAN : ${bulan}*
 ┃✜╿ *CHAT : ${tchat}*
+┃✜╿ *BY : ADNAN NASRULLAH*
+┃✜╿ *IG : acilstory*
 ┃✜╰─────────────────
 ╰══════════════════⊷
  ▻►▻►▻►▻►▻►▻►▻►▻►▻►▻
@@ -44,7 +46,6 @@ exports.menuZ = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) =
 ┃✜╿${tz} *${prefix}promenu*
 ┃✜╿${tz} *${prefix}downloadmenu*
 ┃✜╿${tz} *${prefix}soundmenu*
-┃✜╿${tz} *${prefix}pornmenu*
 ┃✜╿${tz} *${prefix}internalmenu*
 ┃✜╿${tz} *${prefix}cekmenu*
 ┃✜╿${tz} *${prefix}tagmenu*
@@ -106,7 +107,7 @@ exports.info3 = () => {
 exports.grupmenu = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) => { 
     return`╭════❲ *GRUPMENU* ❳═══⊷ 
 ┃✜╭───────────────── 
-┃✜╿ *YakkoXCode BOT*
+┃✜╿ *Alice Amelia BOT BOT*
 ┃✜╿ *OWNER : ${ownername}*
 ┃✜╿ *AUTHOR : ${author}*
 ┃✜╿ *NAMEBOT : ${namebot}*
@@ -153,7 +154,7 @@ ${apikey}`
 exports.makermenu = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) => { 
     return`╭════❲ *MAKERMENU* ❳═══⊷ 
 ┃✜╭───────────────── 
-┃✜╿ *YakkoXCode BOT*
+┃✜╿ *Alice Amelia BOT BOT*
 ┃✜╿ *OWNER : ${ownername}*
 ┃✜╿ *AUTHOR : ${author}*
 ┃✜╿ *NAMEBOT : ${namebot}*
@@ -252,7 +253,7 @@ ${apikey}`
 exports.nsfwmenu = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) => { 
     return`╭════❲ *NSFWMENU* ❳═══⊷ 
 ┃✜╭───────────────── 
-┃✜╿ *YakkoXCode BOT*
+┃✜╿ *Alice Amelia BOT BOT*
 ┃✜╿ *OWNER : ${ownername}*
 ┃✜╿ *AUTHOR : ${author}*
 ┃✜╿ *NAMEBOT : ${namebot}*
@@ -361,7 +362,7 @@ ${apikey}`
 exports.animemenu = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) => { 
     return`╭════❲ *ANIMEMENU* ❳═══⊷ 
 ┃✜╭───────────────── 
-┃✜╿ *YakkoXCode BOT*
+┃✜╿ *Alice Amelia BOT BOT*
 ┃✜╿ *OWNER : ${ownername}*
 ┃✜╿ *AUTHOR : ${author}*
 ┃✜╿ *NAMEBOT : ${namebot}*
@@ -428,7 +429,7 @@ ${apikey}`
 exports.promenu = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) => { 
     return`╭════❲ *PROMENU* ❳═══⊷ 
 ┃✜╭───────────────── 
-┃✜╿ *YakkoXCode BOT*
+┃✜╿ *Alice Amelia BOT BOT*
 ┃✜╿ *OWNER : ${ownername}*
 ┃✜╿ *AUTHOR : ${author}*
 ┃✜╿ *NAMEBOT : ${namebot}*
@@ -531,7 +532,7 @@ ${apikey}`
 exports.downloadmenu = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) => { 
     return`╭══❲ *DOWNLOADMENU* ❳══⊷ 
 ┃✜╭───────────────── 
-┃✜╿ *YakkoXCode BOT*
+┃✜╿ *Alice Amelia BOT BOT*
 ┃✜╿ *OWNER : ${ownername}*
 ┃✜╿ *AUTHOR : ${author}*
 ┃✜╿ *NAMEBOT : ${namebot}*
@@ -569,7 +570,7 @@ ${apikey}`
 exports.soundmenu = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) => { 
     return`╭════❲ *SOUNDMENU* ❳═══⊷ 
 ┃✜╭───────────────── 
-┃✜╿ *YakkoXCode BOT*
+┃✜╿ *Alice Amelia BOT BOT*
 ┃✜╿ *OWNER : ${ownername}*
 ┃✜╿ *AUTHOR : ${author}*
 ┃✜╿ *NAMEBOT : ${namebot}*
@@ -622,7 +623,7 @@ ${apikey}`
 exports.pornmenu = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) => { 
     return`╭════❲ *PORNMENU* ❳═══⊷ 
 ┃✜╭───────────────── 
-┃✜╿ *YakkoXCode BOT*
+┃✜╿ *Alice Amelia BOT BOT*
 ┃✜╿ *OWNER : ${ownername}*
 ┃✜╿ *AUTHOR : ${author}*
 ┃✜╿ *NAMEBOT : ${namebot}*
@@ -675,7 +676,7 @@ ${apikey}`
 exports.internalmenu = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) => { 
     return`╭═══❲ *INTERNALMENU* ❳══⊷ 
 ┃✜╭───────────────── 
-┃✜╿ *YakkoXCode BOT*
+┃✜╿ *Alice Amelia BOT BOT*
 ┃✜╿ *OWNER : ${ownername}*
 ┃✜╿ *AUTHOR : ${author}*
 ┃✜╿ *NAMEBOT : ${namebot}*
@@ -717,7 +718,7 @@ ${apikey}`
 exports.cekmenu = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) => { 
     return`╭════❲ *CEKMENU* ❳═══⊷ 
 ┃✜╭───────────────── 
-┃✜╿ *YakkoXCode BOT*
+┃✜╿ *Alice Amelia BOT BOT*
 ┃✜╿ *OWNER : ${ownername}*
 ┃✜╿ *AUTHOR : ${author}*
 ┃✜╿ *NAMEBOT : ${namebot}*
@@ -756,6 +757,8 @@ exports.cekmenu = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey)
 ┃✜╿${tz} *${prefix}pakgirlcek*
 ┃✜╿${tz} *${prefix}sangecek*
 ┃✜╿${tz} *${prefix}bapercek*
+┃✜╿${tz} *${prefix}pacarsayacek*
+┃✜╿${tz} *${prefix}wibucek*
 ┃✜╰─────────────────
 ╰═══════════════════⊷ 
  ▻►▻►▻►▻►▻►▻►▻►▻►▻►▻
@@ -764,7 +767,7 @@ ${apikey}`
 exports.tagmenu = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) => { 
     return`╭════❲ *TAGMENU* ❳═══⊷ 
 ┃✜╭───────────────── 
-┃✜╿ *YakkoXCode BOT*
+┃✜╿ *Alice Amelia BOT BOT*
 ┃✜╿ *OWNER : ${ownername}*
 ┃✜╿ *AUTHOR : ${author}*
 ┃✜╿ *NAMEBOT : ${namebot}*
@@ -814,7 +817,7 @@ ${apikey}`
 exports.gamemenu = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) => { 
     return`╭════❲ *GAMEMENU* ❳═══⊷ 
 ┃✜╭───────────────── 
-┃✜╿ *YakkoXCode BOT*
+┃✜╿ *Alice Amelia BOT BOT*
 ┃✜╿ *OWNER : ${ownername}*
 ┃✜╿ *AUTHOR : ${author}*
 ┃✜╿ *NAMEBOT : ${namebot}*
@@ -869,7 +872,7 @@ ${apikey}`
 exports.randomtext = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) => { 
     return`╭════❲ *RANDOMTEXT* ❳═══⊷ 
 ┃✜╭───────────────── 
-┃✜╿ *YakkoXCode BOT*
+┃✜╿ *Alice Amelia BOT BOT*
 ┃✜╿ *OWNER : ${ownername}*
 ┃✜╿ *AUTHOR : ${author}*
 ┃✜╿ *NAMEBOT : ${namebot}*
@@ -935,7 +938,7 @@ ${apikey}`
 exports.fastmenu = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) => { 
     return`╭════❲ *FASTMENU* ❳═══⊷ 
 ┃✜╭───────────────── 
-┃✜╿ *YakkoXCode BOT*
+┃✜╿ *Alice Amelia BOT BOT*
 ┃✜╿ *OWNER : ${ownername}*
 ┃✜╿ *AUTHOR : ${author}*
 ┃✜╿ *NAMEBOT : ${namebot}*
@@ -1008,7 +1011,7 @@ ${apikey}`
 exports.sertifikat = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) => { 
     return`╭════❲ *SERTIFIKAT* ❳═══⊷ 
 ┃✜╭───────────────── 
-┃✜╿ *YakkoXCode BOT*
+┃✜╿ *Alice Amelia BOT BOT*
 ┃✜╿ *OWNER : ${ownername}*
 ┃✜╿ *AUTHOR : ${author}*
 ┃✜╿ *NAMEBOT : ${namebot}*
@@ -1051,7 +1054,7 @@ ${apikey}`
 exports.ownermenu = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) => { 
     return`╭════❲ *OWNERMENU* ❳═══⊷ 
 ┃✜╭───────────────── 
-┃✜╿ *YakkoXCode BOT*
+┃✜╿ *Alice Amelia BOT BOT*
 ┃✜╿ *OWNER : ${ownername}*
 ┃✜╿ *AUTHOR : ${author}*
 ┃✜╿ *NAMEBOT : ${namebot}*
@@ -1088,7 +1091,7 @@ ${apikey}`
 exports.makerfoto = (prefix, bulan, tchat, ownername, tz, namebot, author, apikey) => { 
     return`╭════❲ *MAKERFOTO* ❳═══⊷ 
 ┃✜╭───────────────── 
-┃✜╿ *YakkoXCode BOT*
+┃✜╿ *Alice Amelia BOT BOT*
 ┃✜╿ *OWNER : ${ownername}*
 ┃✜╿ *AUTHOR : ${author}*
 ┃✜╿ *NAMEBOT : ${namebot}*
